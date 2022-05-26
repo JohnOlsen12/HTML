@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>John's Website</title>
+    <link rel="stylesheet" href="style.css">
+    <div class="topnav">
+    	<a class="active" href="#home">home</a>
+    	<a href="home.html">Home</a>
+    	<a href="aboutme.html">About me</a>
+    	<a href="projects.html">Projects</a>
+    </div>
+    <div class="image2.JPG"></div>
+
+<div class="bg-text">
+  <h1>Hi I'm John Olsen.</h1>
+  <p>Welcome to my website!</p>
+</div>
+  </head>
+  <body class="b">
+    <img src = "baseball.JPG">
+    <p class="p">Welcome to John's website!</p>
+  </body>
+</html>
