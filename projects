@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>John's Website</title>
+    <link rel="stylesheet" href="style.css">
+
+    <div class="topnav">
+    	<a class="active" href="#projects">Projects</a>
+    	<a href="home.html">Home</a>
+    	<a href="aboutme.html">About me</a>
+    	<a href="projects.html">Projects</a>
+    </div>
+  </head>
+  <body class="b">
+    <img src = "code1.JPG">
+    <h1>This project what my Create portion of the AP test for APCSP. We worked on this for a while and my project helps a user find a used car that fits their budget. In doing this project I learned more about how to code and the nuance of syntax. </h1>
+    <img src = "Isearch1.JPG">
+    <h1>This Screenshot is from my freshman year I search project. I decided to do mine on the future of the workforce so I interviewed people did a bunch of research and wrote some papers on it.I learned how to comunicate better and I got a good look at what serious research is.</h1>
+  </body>
+</html>
