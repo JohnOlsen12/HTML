@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>John's Website</title>
+    <link rel="stylesheet" href="style.css">
+    <div class="topnav">
+    	<a class="active" href="#aboutme">About Me</a>
+    	<a href="home.html">Home</a>
+    	<a href="aboutme.html">About me</a>
+    	<a href="projects.html">Projects</a>
+    </div>
+  </head>
+  <body class="b">
+    <img clas = "pimp" src = "image1.JPEG">
+    <p class="p"> Hi, My name is John. I am a sophomore at Piedmont High school an I live in Piedmont, California. I moved to Piedmont in 7th grade from Oakland and started Piedmont schools in the 8th Grade. I like playing baseball and hanging out with my friends. The picture I chose is from a small lake in Tahoe, I love tahoe especially skiing and spending time up there with friends.</p>	
+  </body>
+</html>
